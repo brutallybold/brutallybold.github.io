@@ -1,8 +1,8 @@
 html {
     background:black;
-    min-width:500px;
+    min-width:500px;/*
     border:1px solid white;
-    min-height: calc(100vh - 5px);
+    min-height: calc(100vh - 5px);*/
 }
 
 body {
