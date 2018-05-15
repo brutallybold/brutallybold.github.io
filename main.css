@@ -1,0 +1,31 @@
+html {
+    background:black;
+    min-width:500px;
+    border:1px solid white;
+    min-height: calc(100vh - 5px);
+}
+
+body {
+    padding: 10px 15px;
+}
+
+@font-face {
+    font-family: Helvetica Neue;
+    src: url(HelveticaMedEx.ttf)
+}
+
+body a {
+    display:inline;
+    color:white;
+    font-family: Helvetica Neue, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 15pt;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#about-link {
+    float:right;
+}
