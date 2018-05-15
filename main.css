@@ -17,6 +17,7 @@ body {
 header {
     position: fixed;
     width:calc(100vw - 65px);
+    z-index: 99;
 }
 
 header a {
@@ -33,4 +34,81 @@ header a:hover {
 
 #about-link {
     float:right;
+}
+
+img {
+    position:absolute;
+    top:-3500px;
+}
+
+#dem-tap-lim-img {
+    width:33vw;
+    top:11vw;
+    left:35vw;
+    transform: rotate(-5deg);
+}
+
+#dem-tap-img {
+    top:25vw;
+    width:20vw;
+    left:14vw;
+    transform: rotate(-15deg)
+}
+
+#ugm-fol-img {
+    top:45vw;
+    width:25vw;
+    left:65vw;
+    transform: rotate(-18deg)
+}
+
+#weih-img {
+    width:70vw;
+    top:83vw;
+    left:10vw;
+    transform:rotate(15deg);
+}
+
+#good-int-img {
+    width:20vw;
+    top:120vw;
+    left:10vw;
+    transform:rotate(-25deg);
+}
+
+#st-img {
+    top:135vw;
+    left:35vw;
+    width:18vw;
+    transform:rotate(10deg);
+}
+
+#sea17-img {
+    top:155vw;
+    width:18vw;
+    transform:rotate(-15deg);
+    left:65vw;
+}
+
+#lien-stift-img {
+    width:40vw;
+    top:175vw;
+    transform:rotate(-7deg);
+    left:17vw;
+}
+
+#show-fly-img {
+    width:60vw;
+    top:213vw;
+    transform:rotate(-15deg);
+    left:27vw;
+}
+
+footer {
+    font-family: Helvetica Neue, Helvetica, sans-serif;
+    color:white;
+    font-size:10pt;
+    position:absolute;
+    top:295vw;
+    margin-bottom:10px;
 }
