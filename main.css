@@ -70,38 +70,38 @@ img {
 }
 
 #good-int-img {
-    width:20vw;
-    top:120vw;
-    left:10vw;
-    transform:rotate(-25deg);
+    width:24vw;
+    top:121vw;
+    left:9vw;
+    transform:rotate(-23deg);
 }
 
 #st-img {
-    top:135vw;
-    left:35vw;
-    width:18vw;
+    top:134vw;
+    left:37vw;
+    width:22vw;
     transform:rotate(10deg);
 }
 
 #sea17-img {
-    top:155vw;
-    width:18vw;
-    transform:rotate(-15deg);
-    left:65vw;
+    top:141vw;
+    width:22vw;
+    transform:rotate(-14deg);
+    left:67vw;
 }
 
 #lien-stift-img {
-    width:40vw;
-    top:175vw;
-    transform:rotate(-7deg);
-    left:17vw;
+    width:41vw;
+    top:178vw;
+    transform:rotate(-6deg);
+    left:8vw;
 }
 
 #show-fly-img {
-    width:60vw;
-    top:213vw;
-    transform:rotate(-15deg);
-    left:27vw;
+    width:64vw;
+    top:211vw;
+    transform:rotate(-12deg);
+    left:21vw;
 }
 
 footer {
