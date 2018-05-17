@@ -9,6 +9,13 @@ body {
     padding: 10px 15px;
 }
 
+#about-body {
+    background: url("img/gesicht_scan.JPG");
+    background-size: cover;
+    background-position: 0 -1px;
+    min-height: calc(100vh - 45px);
+}
+
 @font-face {
     font-family: Helvetica Neue;
     src: url(HelveticaMedEx.ttf)
@@ -18,18 +25,33 @@ header {
     position: fixed;
     width:calc(100vw - 65px);
     z-index: 99;
+    color:white;
+    font-family: Helvetica Neue, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+
+header * {
+    display: inline-block;
+    vertical-align: top;
 }
 
 header a {
-    display:inline;
     color:white;
-    font-family: Helvetica Neue, Helvetica, sans-serif;
     text-decoration: none;
-    font-size: 1.5vw;
 }
 
 header a:hover {
     text-decoration: underline;
+}
+
+header div {
+    width:84%;
+    margin-left:15px;
+    word-break: break-all;
+}
+
+header div * {
+    display: inline;
 }
 
 #about-link {
@@ -49,7 +71,7 @@ img {
 }
 
 #dem-tap-img {
-    top:27vw;
+    top:26vw;
     width:21vw;
     left:9vw;
     transform: rotate(-15deg)
