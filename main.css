@@ -25,7 +25,7 @@ header a {
     color:white;
     font-family: Helvetica Neue, Helvetica, sans-serif;
     text-decoration: none;
-    font-size: 15pt;
+    font-size: 1.5vw;
 }
 
 header a:hover {
@@ -44,28 +44,28 @@ img {
 #dem-tap-lim-img {
     width:33vw;
     top:11vw;
-    left:35vw;
-    transform: rotate(-5deg);
+    left:29vw;
+    transform: rotate(-7deg);
 }
 
 #dem-tap-img {
-    top:25vw;
-    width:20vw;
-    left:14vw;
+    top:27vw;
+    width:21vw;
+    left:9vw;
     transform: rotate(-15deg)
 }
 
 #ugm-fol-img {
-    top:45vw;
+    top:39vw;
     width:25vw;
-    left:65vw;
-    transform: rotate(-18deg)
+    left:64vw;
+    transform: rotate(-17deg)
 }
 
 #weih-img {
-    width:70vw;
-    top:83vw;
-    left:10vw;
+    width:74vw;
+    top:79vw;
+    left:9vw;
     transform:rotate(15deg);
 }
 
@@ -107,7 +107,7 @@ img {
 footer {
     font-family: Helvetica Neue, Helvetica, sans-serif;
     color:white;
-    font-size:10pt;
+    font-size:1.5vw;
     position:absolute;
     top:295vw;
     margin-bottom:10px;
