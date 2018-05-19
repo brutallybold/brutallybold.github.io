@@ -1,0 +1,69 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   BB_Show_Flyer.html
+#	modified:   BSI_Einladung_UGM.html
+#	modified:   BSI_Weihnachtskarte.html
+#	modified:   DxOxE_Demo_Tape_2017.html
+#	modified:   DxOxE_Good_Intentions_MiniCD.html
+#	modified:   DxOxE_ST_Tape.html
+#	new file:   img/BB_Show_Flyer/.DS_Store
+#	new file:   img/BB_Show_Flyer/01_axd_sickmark.jpg
+#	new file:   img/BB_Show_Flyer/02_double_me_lulu.jpg
+#	new file:   img/BB_Show_Flyer/03_the_mild_insomnia.jpg
+#	new file:   img/BB_Show_Flyer/04_xdeloreanx.jpg
+#	new file:   img/BB_Show_Flyer/05_deathmetal.jpg
+#	new file:   img/BB_Show_Flyer/Show_Flyer.psd
+#	new file:   img/BSI_Einladung_UGM/.DS_Store
+#	new file:   img/BSI_Einladung_UGM/01_UGM_Folder_zu.jpg
+#	new file:   img/BSI_Einladung_UGM/02_UGM_Folder_offen_vorne.jpg
+#	new file:   img/BSI_Einladung_UGM/03_UGM_Folder_offen_hinten.jpg
+#	new file:   img/BSI_Weihnachtskarte/.DS_Store
+#	new file:   img/BSI_Weihnachtskarte/01_couvert.JPG
+#	new file:   img/BSI_Weihnachtskarte/02_vorne.JPG
+#	new file:   img/BSI_Weihnachtskarte/03_innen.JPG
+#	new file:   img/DxOxE_Demo_Tape_2017/.DS_Store
+#	new file:   img/DxOxE_Demo_Tape_2017/00_Limited_Edition_Demo_Tape_UEBERSICHT.jpg
+#	new file:   img/DxOxE_Demo_Tape_2017/01_Demo_Tape.jpg
+#	new file:   img/DxOxE_Demo_Tape_2017/02_Limited_Edition_Demo_Tape.jpg
+#	new file:   img/DxOxE_Demo_Tape_2017/03_sheet_vorne.jpg
+#	new file:   img/DxOxE_Demo_Tape_2017/04_sheet_hinten.jpg
+#	new file:   img/DxOxE_Good_Intentions_MiniCD/.DS_Store
+#	new file:   img/DxOxE_Good_Intentions_MiniCD/01_Good_Intentions_case.jpg
+#	new file:   img/DxOxE_Good_Intentions_MiniCD/02_Good_Intentions_case_offen.jpg
+#	new file:   img/DxOxE_Good_Intentions_MiniCD/03_Good_Intentions_offen_aussen.jpg
+#	new file:   img/DxOxE_Good_Intentions_MiniCD/04_Good_Intentions_offen_innen.jpg
+#	new file:   img/DxOxE_ST_Tape/.DS_Store
+#	new file:   img/DxOxE_ST_Tape/01_ST_Sleeve.jpg
+#	new file:   img/DxOxE_ST_Tape/02_ST_Inhalt.jpg
+#	new file:   img/DxOxE_ST_Tape/03_ST_Inlay_offen_vorne.jpg
+#	new file:   img/DxOxE_ST_Tape/04_ST_Inlay_offen_hinten.jpg
+#	new file:   img/Keep_Talking_SEA17/.DS_Store
+#	new file:   img/Keep_Talking_SEA17/01_SEA17_case.jpg
+#	new file:   img/Keep_Talking_SEA17/02_SEA17_tape.jpg
+#	new file:   img/Keep_Talking_SEA17/03_SEA17_inlay_vorne.jpg
+#	new file:   img/Keep_Talking_SEA17/04_SEA17_inlay_hinten.jpg
+#	new file:   img/Lienhard_Stiftung_Folder/.DS_Store
+#	new file:   img/Lienhard_Stiftung_Folder/01_Lienhard_Stiftung_Flyer_zu.jpg
+#	new file:   img/Lienhard_Stiftung_Folder/02_Lienhard_Stiftung_Flyer_halb_offen.jpg
+#	new file:   img/Lienhard_Stiftung_Folder/03_Lienhard_Stiftung_Flyer_offen_vorne.jpg
+#	new file:   img/Lienhard_Stiftung_Folder/04_Lienhard_Stiftung_Flyer_offen_hinten.jpg
+#	new file:   "img/Raiffeisen_Erkl\303\244rvideos/.DS_Store"
+#	new file:   "img/Raiffeisen_Erkl\303\244rvideos/Videos/B649_Erklaervideo_Fit_DE_171219.mp4"
+#	new file:   "img/Raiffeisen_Erkl\303\244rvideos/handy_scan.JPG"
+#
+# Changes not staged for commit:
+#	modified:   Keep_Talking_SEA17.html
+#	modified:   Lienhard_Stiftung_Folder.html
+#	modified:   main.css
+#
+# Untracked files:
+#	"img/Raiffeisen_Erkl\303\244rvideos/Videos/B698_Kreditkarten_Einkaufen_DE.mp4"
+#	"img/Raiffeisen_Erkl\303\244rvideos/Videos/B698_Kreditkarten_Reise_DE.mp4"
+#
+

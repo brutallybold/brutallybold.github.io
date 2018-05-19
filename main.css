@@ -134,3 +134,8 @@ footer {
     top:295vw;
     margin-bottom:10px;
 }
+
+.pics img {
+    position: inherit;
+    width:100%;
+}
