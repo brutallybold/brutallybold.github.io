@@ -23,6 +23,7 @@ body {
 
 header {
     position: fixed;
+    top:1.9vw;
     width:calc(100vw - 65px);
     z-index: 99;
     color:white;
@@ -138,7 +139,8 @@ footer {
 }
 
 #about-img {
-    width: calc(100vw - 18px);
+    margin:auto;
+    min-height:100vh;
     margin-left: -22px;
     margin-top: -97px;
     margin-bottom:-48px;
@@ -152,8 +154,8 @@ footer {
     font-family: Helvetica Neue, Helvetica, sans-serif;
     color:white;
     position:absolute;
-    top:4px;
-    left:85px;
+    top:0.4vw;
+    left:9vw;
 }
 
 /** MOBILE **/
@@ -161,6 +163,12 @@ footer {
     header {
         position: absolute;
         font-size: 13.5px;
+        top:17px;
+    }
+    
+    #about-text {
+        font-size: 13.5px;
+        top:27px;
     }
     
     footer {
