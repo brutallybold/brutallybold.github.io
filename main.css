@@ -11,9 +11,9 @@ body {
 
 #about-body {
     background: url("img/gesicht_scan.JPG");
-    background-size: cover;
+    background-size: contain;
     background-position: 0 -1px;
-    min-height: calc(100vh - 45px);
+    height: 2716px;
 }
 
 @font-face {
@@ -42,16 +42,6 @@ header a {
 
 header a:hover {
     text-decoration: underline;
-}
-
-header div {
-    width:84%;
-    margin-left:15px;
-    word-break: break-all;
-}
-
-header div * {
-    display: inline;
 }
 
 #about-link {
@@ -129,7 +119,7 @@ img {
 footer {
     font-family: Helvetica Neue, Helvetica, sans-serif;
     color:white;
-    font-size:1.5vw;
+    font-size:1vw;
 }
 
 #footer-ueb {
@@ -145,4 +135,35 @@ footer {
 
 #ueb-div {
     height:300vw;
+}
+
+#about-img {
+    width: calc(100vw - 18px);
+    margin-left: -22px;
+    margin-top: -97px;
+    margin-bottom:-48px;
+}
+
+#about-text {
+    margin:auto;
+    width:80%;
+    word-break: break-all;
+    font-size:1.5vw;
+    font-family: Helvetica Neue, Helvetica, sans-serif;
+    color:white;
+    position:absolute;
+    top:4px;
+    left:85px;
+}
+
+/** MOBILE **/
+@media only screen and (max-width: 900px) {
+    header {
+        position: absolute;
+        font-size: 13.5px;
+    }
+    
+    footer {
+        font-size:9px;
+    }
 }
