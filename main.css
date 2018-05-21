@@ -175,3 +175,9 @@ footer {
         font-size:9px;
     }
 }
+
+@media only screen and (orientation: portrait) {
+    body {
+        font-size:200%;
+    }
+}
