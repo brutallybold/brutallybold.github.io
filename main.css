@@ -139,17 +139,19 @@ footer {
 }
 
 #about-img {
-    margin:auto;
-    min-height:100vh;
-    margin-left: -22px;
-    margin-top: -97px;
-    margin-bottom:-48px;
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    object-fit: cover;
+    margin-left:-23px;
+    margin-top:-19px;
+    margin-bottom: -33px;
 }
 
 #about-text {
     margin:auto;
     width:80%;
-    word-break: break-all;
+    word-break: normal;
     font-size:1.5vw;
     font-family: Helvetica Neue, Helvetica, sans-serif;
     color:white;
