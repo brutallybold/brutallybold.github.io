@@ -148,7 +148,7 @@ footer {
     margin-bottom: -33px;
 }
 
-#about-text {
+.desc-text {
     margin:auto;
     width:80%;
     word-break: normal;
@@ -156,9 +156,26 @@ footer {
     font-family: Helvetica Neue, Helvetica, sans-serif;
     color:white;
     position:absolute;
-    top:0.4vw;
+    top:0.71vw;
     left:9vw;
+    line-height: 1.9vw;
 }
+
+.desc-text h2 {
+    font-size:1.5vw;
+    margin-bottom: -2.5vw;
+    font-weight:normal;
+}
+
+
+#raiff-vid-1 {
+    position:relative;
+    top:-27vw;
+    left:28vw;
+    width:37.5vw;
+    height:21vw;
+}
+
 
 /** MOBILE **/
 @media only screen and (max-width: 900px) {
@@ -168,9 +185,22 @@ footer {
         top:17px;
     }
     
-    #about-text {
+    .desc-text {
         font-size: 13.5px;
-        top:27px;
+        top:30px;
+        line-height:15px;
+    }
+    
+    .desc-text h2 {
+        font-size: 13.5px;
+    }
+    
+    #show-fly {
+        margin-top:140px;
+    }
+    
+    #raiff-pics {
+        margin-top:130px;
     }
     
     footer {
