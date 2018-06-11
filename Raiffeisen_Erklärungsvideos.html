@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <title>BRUTALLY BOLD</title>
 <link rel="stylesheet" type="text/css" href="main.css">
+<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
 
 <html>
 <body>
@@ -14,10 +16,26 @@
     
     <div id="raiff-pics" class="pics">
         <img src="img/handy_transparent.png">
-        <iframe id="raiff-vid-1" src="https://www.youtube.com/embed/lzrOpOD-auk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div class="vid-slide">
+            <div>
+                <iframe id="raiff-vid-1" src="https://www.youtube.com/embed/lzrOpOD-auk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            <div><iframe id="raiff-vid-1" src="https://www.youtube.com/embed/rUNLyFkZhsk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+            <div><iframe id="raiff-vid-1" src="https://www.youtube.com/embed/lxan8CaQZpU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+        </div>
     </div>
     </div>
     
-</body>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="slick/slick.min.js"></script>
+    
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.vid-slide').slick();
+        });
+	</script>
+    
+    </body>
     
 </html>
