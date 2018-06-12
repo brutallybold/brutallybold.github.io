@@ -54,6 +54,14 @@ a h2:hover, a:hover {
     text-decoration: underline;
 }
 
+.desc-text a {
+    text-decoration: underline;
+}
+
+.desc-text a:hover {
+    text-decoration: none;
+}
+
 #about-link {
     float:right;
 }
@@ -168,7 +176,7 @@ footer {
     object-fit: cover;
     margin-left:-23px;
     margin-top:-19px;
-    margin-bottom: -33px;
+    margin-bottom: -41px;
 }
 
 .desc-text {
