@@ -227,9 +227,21 @@ footer {
     min-width:100%;
     height: 100%;
     object-fit: cover;
-    display:none;
-    margin-left:-20px;
+    margin-left:-24px;
     transform: scale(-1, 1);
+}
+
+#portrait-check {
+    display:none;
+}
+
+#portrait-check h1 {
+    position:fixed;
+    top:70vh;
+    left:calc(50vw - 125px);
+    z-index:100;
+    color:white;
+    font-family: Helvetica Neue
 }
 
 /** MOBILE **/
@@ -271,7 +283,7 @@ footer {
 }
 
 @media only screen and (orientation: portrait) {
-    #portrait-check-img {
+    #portrait-check {
         display:block;
     }
 }
