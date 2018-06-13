@@ -277,8 +277,29 @@ footer {
 }
 
 @media only screen and (min-device-pixel-ratio: 2) {
-    body {
-        font-size:200%;
+    
+    header, header h2 {
+        font-size: 27px;
+        top:9px;
+    }
+    
+    #about-link {
+        position: relative;
+        right:20px;
+    }
+    
+    .desc-text {
+        font-size: 27px;
+        top:30px;
+        line-height:30px;
+    }
+    
+    .desc-text h2 {
+        font-size: 18px;
+    }
+    
+    footer {
+        font-size:18px;
     }
 }
 
