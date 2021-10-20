@@ -7,7 +7,8 @@ $(document).ready(function () {
     initialZoom: 4,
     bounds: true,
     boundsPadding: 0.3,
-    zoomSpeed: 0.065 
+    zoomSpeed: 0.065, 
+    zoomDoubleClickSpeed: 1, 
   });
 
   //overlay text
