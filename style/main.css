@@ -150,6 +150,7 @@ body {
   font-size: 0.625em;
   font-family: Orbitron;
   line-height: 3.15em;
+  user-select: none;
 }
 
 header {
@@ -250,6 +251,7 @@ a:hover {
   width: 100vw;
   height: 100vw;
   position: relative;
+  background-color: black;
 }
 
 /* LOGOS – LOGOS – LOGOS – LOGOS */
