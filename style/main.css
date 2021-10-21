@@ -151,7 +151,7 @@ body {
   font-family: Orbitron;
   line-height: 3.15em;
   user-select: none;
-  touch-action: pan-y, pan-x;
+  touch-action: pinch-zoom;
 }
 
 header {
